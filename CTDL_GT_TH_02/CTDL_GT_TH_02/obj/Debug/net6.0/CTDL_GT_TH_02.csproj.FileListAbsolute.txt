@@ -1,0 +1,15 @@
+D:\CTDL_GT_TH\CTDL_GT_TH_02\CTDL_GT_TH_02\bin\Debug\net6.0\CTDL_GT_TH_02.exe
+D:\CTDL_GT_TH\CTDL_GT_TH_02\CTDL_GT_TH_02\bin\Debug\net6.0\CTDL_GT_TH_02.deps.json
+D:\CTDL_GT_TH\CTDL_GT_TH_02\CTDL_GT_TH_02\bin\Debug\net6.0\CTDL_GT_TH_02.runtimeconfig.json
+D:\CTDL_GT_TH\CTDL_GT_TH_02\CTDL_GT_TH_02\bin\Debug\net6.0\CTDL_GT_TH_02.dll
+D:\CTDL_GT_TH\CTDL_GT_TH_02\CTDL_GT_TH_02\bin\Debug\net6.0\CTDL_GT_TH_02.pdb
+D:\CTDL_GT_TH\CTDL_GT_TH_02\CTDL_GT_TH_02\obj\Debug\net6.0\CTDL_GT_TH_02.csproj.AssemblyReference.cache
+D:\CTDL_GT_TH\CTDL_GT_TH_02\CTDL_GT_TH_02\obj\Debug\net6.0\CTDL_GT_TH_02.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTDL_GT_TH\CTDL_GT_TH_02\CTDL_GT_TH_02\obj\Debug\net6.0\CTDL_GT_TH_02.AssemblyInfoInputs.cache
+D:\CTDL_GT_TH\CTDL_GT_TH_02\CTDL_GT_TH_02\obj\Debug\net6.0\CTDL_GT_TH_02.AssemblyInfo.cs
+D:\CTDL_GT_TH\CTDL_GT_TH_02\CTDL_GT_TH_02\obj\Debug\net6.0\CTDL_GT_TH_02.csproj.CoreCompileInputs.cache
+D:\CTDL_GT_TH\CTDL_GT_TH_02\CTDL_GT_TH_02\obj\Debug\net6.0\CTDL_GT_TH_02.dll
+D:\CTDL_GT_TH\CTDL_GT_TH_02\CTDL_GT_TH_02\obj\Debug\net6.0\refint\CTDL_GT_TH_02.dll
+D:\CTDL_GT_TH\CTDL_GT_TH_02\CTDL_GT_TH_02\obj\Debug\net6.0\CTDL_GT_TH_02.pdb
+D:\CTDL_GT_TH\CTDL_GT_TH_02\CTDL_GT_TH_02\obj\Debug\net6.0\CTDL_GT_TH_02.genruntimeconfig.cache
+D:\CTDL_GT_TH\CTDL_GT_TH_02\CTDL_GT_TH_02\obj\Debug\net6.0\ref\CTDL_GT_TH_02.dll
